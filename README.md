@@ -1,4 +1,4 @@
-<h1>Projeto de Criação e Cadastro de Trabalhador</h1>
+<h1>Projeto - Criação e Cadastro de Trabalhador</h1>
 <h2>Descrição</h2>
 Este projeto foi desenvolvido como parte do curso "C# Completo Programação Orientada a Objetos + Projetos" oferecido pela Udemy. O objetivo principal é criar um sistema de cadastro de trabalhadores, permitindo a criação de contratos e a geração de totalizadores dos valores com base na data do contrato (mês e ano).
 
