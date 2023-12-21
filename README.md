@@ -3,7 +3,7 @@
 Este projeto foi desenvolvido como parte do curso "C# Completo Programação Orientada a Objetos + Projetos" oferecido pela Udemy. O objetivo principal é criar um sistema de cadastro de trabalhadores, permitindo a criação de contratos e a geração de totalizadores dos valores com base na data do contrato (mês e ano).
 
 <h2>Tecnologias Utilizadas</h2>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/200px-C_Sharp_wordmark.svg.png" alt="C#"=50x>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/200px-C_Sharp_wordmark.svg.png" alt="C#" width="50" height="50">
 A implementação do projeto foi realizada utilizando a linguagem C# com o framework .NET6. Durante o desenvolvimento, foram aplicados conceitos fundamentais de programação orientada a objetos (OOP), como props, enum, construtores, funções especiais, métodos (funções), classes, entities, entre outros.
 
 
